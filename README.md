@@ -15,7 +15,7 @@ https://github.com/jaggedsoft/php-binance-api
 https://github.com/krakenfx/kraken-api-client
 
 ## Install
-Run on local dev platform with install=1 in config. Then upload to the private section of webserver to avoid webcrawling.
+Add your API key and secret. DISABLE WITHDRAWALS FOR THE KEY. Run on local dev platform with install=1 in config. Then upload to the private section of webserver to avoid webcrawling.
 Set a cron job for every 5 minutes or so.
 
 eg cron command:
