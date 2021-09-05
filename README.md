@@ -1,12 +1,19 @@
 #Rebalance TA Paper Trade Bot
+
 By: u/callunquirka aka leafypineglass on github
+
 License: CC BY
+
 Uses TA to dial in the sell/buy time. It doesn't rebalance the entire portfolio at once, instead it only buys or sells assets that have gone outside the range allowed by $threshold in config.
 
 ##Dependencies
+
 PHP 7
+
 Either the Binance API from jaggedsoft or KrakenAPI
+
 https://github.com/jaggedsoft/php-binance-api
+
 https://github.com/krakenfx/kraken-api-client
 
 ##Install
