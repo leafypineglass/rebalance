@@ -27,7 +27,9 @@ Look here for install, portfolio make up, exchange, etc.
 
 ## json Files
 **rebalance-main.json** - Records the balance, average buy price per asset, starting quantity of each asset.
+
 **QuickExt.json** - Look here for the tempTotalValue and holdValue (value of your assets if you only held).
+
 **pairName-history.json** - Records each sell operation and the average buy price at the time of the sell.
 
 
